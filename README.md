@@ -1,2 +1,2 @@
 # JavaNet
-Basic Neural Network Implementation in Java
+Basic Neural Network Implementation in Java.
